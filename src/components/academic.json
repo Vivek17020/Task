@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "link": "https://www.nature.com/articles/d41586-023-02975-3",
+      "title": "Climate change is already having an impact on human health"
+    },
+    {
+      "id": 2,
+      "link": "https://www.sciencemag.org/news/2023/02/climate-change-is-making-extreme-weather-events-more-common",
+      "title": "Climate change is making extreme weather events more common"
+    },
+    {
+      "id": 3,
+      "link": "https://www.pnas.org/doi/full/10.1073/pnas.2213394119",
+      "title": "The impacts of climate change on agriculture and food security"
+    },
+    {
+      "id": 4,
+      "link": "https://www.annualreviews.org/doi/full/10.1146/annurev-environ-102020-094709",
+      "title": "Climate change and human migration"
+    },
+    {
+      "id": 5,
+      "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00894-1/fulltext",
+      "title": "The health consequences of climate change"
+    }
+  ]
+  

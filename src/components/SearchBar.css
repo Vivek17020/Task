@@ -1,0 +1,80 @@
+.search-bar-container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .search-heading {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .quillbot-logo {
+    width: 100px;
+  }
+  
+  .search-bar {
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-input {
+    width: 100%;
+    margin-right: 10px;
+  }
+  
+  .search-icon {
+    color: #ccc;
+  }
+  
+  .academic-search-enabled {
+    color: #000;
+  }
+  
+  .search-button {
+    margin-top: 10px;
+  }
+  
+  .search-results {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .search-results li {
+    margin-bottom: 10px;
+  }
+  
+  .search-results a {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .modal-content {
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  .modal-content h2 {
+    margin-top: 0;
+  }
+  
+  .modal-content button {
+    margin-top: 20px;
+  }
+  
